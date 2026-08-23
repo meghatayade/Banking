@@ -1,0 +1,41 @@
+customer_id,customer_name,gender,age,city,state,signup_date
+1,Aarav Sharma,Male,24,Delhi,Delhi,12-01-2024
+2,Ananya Iyer,Female,23,Bengaluru,Karnataka,19-01-2024
+3,Rohan Mehta,Male,26,Mumbai,Maharashtra,03-02-2024
+4,Priya Nair,Female,25,Kochi,Kerala,14-02-2024
+5,Vikram Singh,Male,28,Jaipur,Rajasthan,28-02-2024
+6,Kavya Reddy,Female,22,Hyderabad,Telangana,06-03-2024
+7,Arjun Patel,Male,27,Ahmedabad,Gujarat,18-03-2024
+8,Neha Gupta,Female,24,Pune,Maharashtra,27-03-2024
+9,Aditya Verma,Male,29,Lucknow,Uttar Pradesh,09-04-2024
+10,Isha Kapoor,Female,23,Chandigarh,Chandigarh,16-04-2024
+11,Rahul Das,Male,25,Kolkata,West Bengal,24-04-2024
+12,Sneha Joshi,Female,27,Indore,Madhya Pradesh,02-05-2024
+13,Karan Malhotra,Male,30,Delhi,Delhi,10-05-2024
+14,Meera Shah,Female,26,Surat,Gujarat,21-05-2024
+15,Siddharth Rao,Male,24,Chennai,Tamil Nadu,05-06-2024
+16,Pooja Bansal,Female,28,Noida,Uttar Pradesh,17-06-2024
+17,Nikhil Kumar,Male,23,Patna,Bihar,25-06-2024
+18,Riya Sen,Female,25,Kolkata,West Bengal,04-07-2024
+19,Manish Yadav,Male,31,Gurugram,Haryana,15-07-2024
+20,Aditi Kulkarni,Female,24,Pune,Maharashtra,29-07-2024
+21,Harsh Jain,Male,27,Bhopal,Madhya Pradesh,08-08-2024
+22,Simran Kaur,Female,26,Amritsar,Punjab,19-08-2024
+23,Dev Agarwal,Male,22,Jaipur,Rajasthan,03-09-2024
+24,Nandini Bose,Female,29,Bengaluru,Karnataka,14-09-2024
+25,Akash Mishra,Male,28,Kanpur,Uttar Pradesh,26-09-2024
+26,Tanya Arora,Female,23,Delhi,Delhi,07-10-2024
+27,Varun Chawla,Male,26,Chandigarh,Chandigarh,18-10-2024
+28,Divya Menon,Female,27,Kochi,Kerala,01-11-2024
+29,Mohit Saxena,Male,25,Lucknow,Uttar Pradesh,13-11-2024
+30,Shreya Ghosh,Female,24,Kolkata,West Bengal,25-11-2024
+31,Ritesh Sinha,Male,30,Patna,Bihar,03-12-2024
+32,Anjali Desai,Female,28,Ahmedabad,Gujarat,12-12-2024
+33,Yash Thakur,Male,23,Indore,Madhya Pradesh,08-01-2025
+34,Manya Khanna,Female,25,Noida,Uttar Pradesh,17-01-2025
+35,Saurabh Tiwari,Male,29,Gurugram,Haryana,28-01-2025
+36,Ira Mukherjee,Female,26,Kolkata,West Bengal,10-02-2025
+37,Kabir Arora,Male,24,Delhi,Delhi,18-02-2025
+38,Ritu Sood,Female,27,Chennai,Tamil Nadu,03-03-2025
+39,Aman Khurana,Male,28,Pune,Maharashtra,15-03-2025
+40,Lakshmi Iyer,Female,22,Bengaluru,Karnataka,26-03-2025
